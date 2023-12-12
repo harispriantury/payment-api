@@ -5,6 +5,8 @@ docs/auth.md
 
 docs/payment.md
 
+docs/payment_api.postman_collection.json
+
 # SET UP
 
 1. Clone repository
